@@ -127,7 +127,7 @@ Visualización final de resultados.
 
 El informe funcional y técnico completo del proyecto se encuentra disponible en:
 
-[Informe Final](docs/Informe_Final.pdf)
+[Informe Final](docs/Informe%20Final.pdf)
 
 ## Cómo configurar el proyecto
 
