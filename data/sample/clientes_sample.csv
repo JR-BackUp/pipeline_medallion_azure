@@ -1,1 +1,6 @@
-
+id_cliente,nombre,edad,provincia
+101,Juan Perez,28,Cordoba
+102,Ana Diaz,35,Mendoza
+103,Carlos Ruiz,22,San Luis
+104,Laura Gomez,47,Buenos Aires
+105,Sofia Torres,31,Santa Fe
