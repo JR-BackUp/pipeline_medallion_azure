@@ -1,1 +1,6 @@
-
+id_tienda,tienda,provincia
+1,Tienda Centro,Cordoba
+2,Tienda Norte,Mendoza
+3,Tienda Sur,San Luis
+4,Tienda Oeste,Buenos Aires
+5,Tienda Este,Santa Fe
